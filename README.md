@@ -102,12 +102,12 @@ Bella Bella is an online platform for showcasing the restaurant’s menu, offeri
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/bella-vista.git
+   git clone https://github.com/dugsiiyeinc/bella-bella.git
    ```
 2. Navigate to the project folder:
 
    ```bash
-   cd bella-vista
+   cd bella-bella
    ```
 
 3. Install dependencies:
@@ -164,7 +164,7 @@ Bella Bella is an online platform for showcasing the restaurant’s menu, offeri
 **Bella Bella**  
 📍 123 Italian Street, Food City, FC 12345  
 📞 (555) 123-4567  
-✉️ info@bellavista.com
+✉️ info@bellabella.com
 
 ---
 
