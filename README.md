@@ -136,7 +136,7 @@ Bella Bella is an online platform for showcasing the restaurant’s menu, offeri
 2. **Menu** – Category filters and dish listing.
 3. **Dish Details** – Pricing, extras, nutritional info, allergens.
 4. **Booking** – Reservation form with preferred time slots and guest count.
-5. **Why Choose Us** – Highlights of Bella Vista’s unique qualities.
+5. **Why Choose Us** – Highlights of Bella Bella’s unique qualities.
 6. **Footer** – Contact info, opening hours, and brand tagline.
 
 ---

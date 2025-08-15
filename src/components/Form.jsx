@@ -39,7 +39,7 @@ const Form = () => {
       </div>
       <h2 className="text-3xl text-green-600"> Reservation Confirmed!</h2>
       <p className="text-gray-600">
-        Thank you for choosing Bella Vista. We look forward to serving you.
+        Thank you for choosing Bella Bella. We look forward to serving you.
       </p>
     </div>
   ) : (
